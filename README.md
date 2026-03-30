@@ -1,7 +1,7 @@
 <div align="center">
 
 # hey, i'm david 👋
-### *building things i probably shouldn't be building yet*
+### *doing everything but not homework*
 
 </div>
 
@@ -10,12 +10,12 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ```
-⚙️  hardware engineering student (self-appointed)
-💻  currently: designing a custom laptop from scratch
+⚙️  just a normal student :/
+💻  designing a custom laptop cuz i am bored
 🧠  AMD Ryzen 7 7840U • KiCad • Fusion 360
-🔌  learning PCB design by actually doing it
-🌱  started with Lua/Luau • now vibecoding circuits
-📍  Moldova
+🔌  learning pcb design by asking ai and tutorial's
+🌱  started with scratch and now vicoding circuits lol
+📍 i am from moldova
 ```
 
 <br clear="right"/>
