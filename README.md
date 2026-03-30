@@ -1,34 +1,25 @@
 <div align="center">
 
-# hey, i'm david 👋
-### *doing everything but not homework*
+<img src="https://github.com/degvidh/degvidh/assets/your-asset-id/bubble.png" width="22%" align="right" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=A0C4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=hey%2C+i'm+david+%F0%9F%91%8B;doing+everything+but+not+homework" width="70%" />
 
----
+<br><br>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<pre>
+    ⚙️  just a normal student :/
+    💻  designing a custom laptop cuz i am bored
+    🧠  AMD Ryzen 7 7840U  •  KiCad  •  Fusion 360
+    🔌  learning pcb design by asking ai and tutorials
+    🌱  started with scratch and now vibecoding circuits lol
+    📍  moldova
+</pre>
 
-```
-⚙️  just a normal student :/
-💻  designing a custom laptop cuz i am bored
-🧠  AMD Ryzen 7 7840U • KiCad • Fusion 360
-🔌  learning pcb design by asking ai and tutorial's
-🌱  started with scratch and now vicoding circuits lol
-📍 i am from moldova
-```
+<br>
 
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### 🛠️ current obsession
-
-**[NCUT]** — a custom laptop i'm building from scratch.
-schematics, power delivery, BGA footprints, bezel design.
-basically just controlled chaos with a soldering iron.
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/degvidh)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@degvidh)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trocindavid08@gmail.com)
 
 </div>
 
@@ -49,35 +40,8 @@ basically just controlled chaos with a soldering iron.
 
 ## 🚀 projects
 
-| | |
+| project | what |
 |---|---|
-| **NCUT laptop** | custom laptop from scratch — PCB, chassis, everything ⚠️ |
-| **Lua UI experiments** | systems & UI libraries, figuring out how things connect 🧪 |
-| **CRE Fălești** | local organization website (css/js debugging is a sport) 🌐 |
-
----
-
-<div align="center">
-
-## 📊 stats
-
-![degvidh's stats](https://github-readme-stats.vercel.app/api?username=degvidh&show_icons=true&theme=tokyonight&hide=contribs,prs&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degvidh&layout=compact&theme=tokyonight&hide=html,css&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 find me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/degvidh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@degvidh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trocindavid08@gmail.com)
-
-<br>
-
-*not an expert — just someone building things way above my level and learning fast.*
-
-</div>
+| **NCUT** | custom laptop from scratch — PCB, chassis, BGA, the works ⚠️ |
+| **Lua UI** | messing with UI systems and libraries 🧪 |
+| **CRE Fălești** | local org website, css/js debugging as a sport 🌐 |
