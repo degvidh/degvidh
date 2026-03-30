@@ -1,20 +1,11 @@
 # 💫 About Me:
 
 <br>I like building things I probably shouldn’t be building yet.<br><br>
-Right now I’m working on designing a custom motherboard with an AMD processor —<br>
-basically learning hardware by doing it, with a mix of AI, curiosity, and a lot of trial and error.<br><br>
+Right now I’m working on designing a custom motherboard with an amd cpu<br>
+basically learning hardware by doing it also its basically vibecoding circuits<br><br>
 I started out with Lua/Luau and UI libraries, and while I wouldn’t call myself amazing,<br>
-I enjoy creating systems and figuring out how things work under the hood.<br><br>
+i enjoy creating systems and figuring out how things work under the hood.<br><br>
 Most of what I do is experimenting, breaking things, and slowly understanding them.<br>
-
----
-
-# ⚡ Hardware & Low-Level:
-
-* 🧠 Learning electronics & circuit design from scratch
-* 🔌 Experimenting with custom motherboard concepts
-* 🧩 Trying to understand how CPUs, power delivery, and buses actually work
-* 🛠️ “Vibe coding” circuits with AI (and somehow making progress)
 
 ---
 
@@ -46,6 +37,37 @@ Most of what I do is experimenting, breaking things, and slowly understanding th
 * Electronics fundamentals (Ohm’s law, power delivery, signal integrity basics)
 * PCB design tools (KiCad / Altium soon™)
 * How motherboards actually work beyond “plug CPU here”
+
+---
+
+# 🚀 Projects I’m Proud Of (or at least learning from)
+
+| Project | What it is | Status |
+|---------|------------|--------|
+| **AMD Custom Motherboard** | Designing a board from scratch – schematics, power delivery, routing | ⚠️ actively breaking things |
+| **Lua UI experiments** | Various UI libraries & systems (no public repo yet) | 🧪 prototyping |
+| **Vibe-coded circuits** | Because why not simulate before burning components | 🔥 learning by melting |
+
+---
+
+# 📊 GitHub Stats
+
+![Degvidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=degvidh&show_icons=true&theme=radical&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degvidh&layout=compact&theme=radical&hide=html,css)
+
+*(these stats only appear once you push a few repos – until then, imagine impressive numbers)*
+
+---
+
+# 🔧 Current Hardware Build (the messy part)
+
+- **CPU:** AMD (still deciding which one won't kill me)
+- **PCB software:** KiCad (for now)
+- **Soldering iron:** hot enough to fix mistakes… and create new ones
+- **Debug method:** multimeter + hope
+
+> *“It’s not a bug, it’s a feature… of my learning process.”*
 
 ---
 
