@@ -32,45 +32,6 @@ Most of what I do is experimenting, breaking things, and slowly understanding th
 
 ---
 
-# 🧠 Currently Learning:
-
-* Electronics fundamentals (Ohm’s law, power delivery, signal integrity basics)
-* PCB design tools (KiCad / Altium soon™)
-* How motherboards actually work beyond “plug CPU here”
-
----
-
-# 🚀 Projects I’m Proud Of (or at least learning from)
-
-| Project | What it is | Status |
-|---------|------------|--------|
-| **AMD Custom Motherboard** | Designing a board from scratch – schematics, power delivery, routing | ⚠️ actively breaking things |
-| **Lua UI experiments** | Various UI libraries & systems (no public repo yet) | 🧪 prototyping |
-| **Vibe-coded circuits** | Because why not simulate before burning components | 🔥 learning by melting |
-
----
-
-# 📊 GitHub Stats
-
-![Degvidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=degvidh&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degvidh&layout=compact&theme=radical&hide=html,css)
-
-*(these stats only appear once you push a few repos – until then, imagine impressive numbers)*
-
----
-
-# 🔧 Current Hardware Build (the messy part)
-
-- **CPU:** AMD (still deciding which one won't kill me)
-- **PCB software:** KiCad (for now)
-- **Soldering iron:** hot enough to fix mistakes… and create new ones
-- **Debug method:** multimeter + hope
-
-> *“It’s not a bug, it’s a feature… of my learning process.”*
-
----
-
 # ⚠️ Disclaimer:
 
 I’m not an expert — just someone building things way above my level and learning fast.
