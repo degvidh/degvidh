@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=A0C4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=hey%2C+i'm+david+%F0%9F%91%8B;doing+everything+but+not+homework" width="70%" />
 
-&#8203;&#8203;
+<div style="margin-top: 20px;"></div>
+<div style="margin-top: 20px;"></div>
 
 <pre>
     ⚙️  just a normal student :/
@@ -15,7 +16,7 @@
     📍  moldova
 </pre>
 
-&#8203;
+<div style="margin-top: 20px;"></div>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/degvidh)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@degvidh)
