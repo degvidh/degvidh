@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bubbleeee.png" width="22%" align="right" />
+<img src="bubble.png" width="22%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=A0C4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=hey%2C+i'm+david+%F0%9F%91%8B;doing+everything+but+not+homework" width="70%" />
 
