@@ -4,6 +4,8 @@
 
 <br><br>
 
+<img src="lines=hey%2C+i'm+david+%F0%9F%91%8B;doing+everything+but+not+homework" width="70%" />
+
 <pre>
     ⚙️  just a normal student :/
     💻  designing a custom laptop cuz i am bored
