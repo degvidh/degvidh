@@ -9,11 +9,12 @@
 
 <pre>
     ⚙️  just a normal student :/
-    💻  designing a custom laptop cuz i am bored
-    🧠  AMD Ryzen 7 7840U  •  KiCad  •  Fusion 360
-    🔌  learning pcb design by asking ai and tutorials
-    🌱  started with scratch and now vibecoding circuits lol
-    📍  moldova
+    💻  breaking and customizing Linux because i can
+    🐧  Arch • Hyprland • Waybar • Rofi
+    🔧  messing with hardware, electronics & random projects
+    🧠  coding stuff i probably shouldn't be coding
+    🌱  started with Scratch, somehow ended up here lol
+    📍  Moldova
 </pre>
 
 <br>
