@@ -8,7 +8,7 @@
 <br>
 
 <pre>
-    🐧  arch, hyprland, waybar, rofi. it works until it doesn't
+    🐧  arch, hyprland, qs, rofi. it works until it doesn't
     🔧  sometimes i solder things
     💻  write code, mostly for fun
     🌱  started with scratch, no idea how i got here
@@ -31,13 +31,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 🧪 projects
 
 a few repos are in here somewhere. some even work.
