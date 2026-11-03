@@ -2,19 +2,17 @@
 
 <img src="bubble.png" width="22%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=A0C4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=hey%2C+i'm+david+%F0%9F%91%8B;doing+everything+but+not+homework" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=46&duration=4000&pause=300&color=A0C4FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=hey%2C+i'm+david;doing+everything+but+homework" width="70%" />
 
 <br>
 <br>
 
 <pre>
-    ⚙️  just a normal student :/
-    💻  breaking and customizing Linux because i can
-    🐧  Arch • Hyprland • Waybar • Rofi
-    🔧  messing with hardware, electronics & random projects
-    🧠  coding stuff i probably shouldn't be coding
-    🌱  started with Scratch, somehow ended up here lol
-    📍  Moldova
+    🐧  arch, hyprland, waybar, rofi. it works until it doesn't
+    🔧  sometimes i solder things
+    💻  write code, mostly for fun
+    🌱  started with scratch, no idea how i got here
+    📍  moldova
 </pre>
 
 <br>
@@ -27,7 +25,7 @@
 
 ---
 
-## 💻 tech stack
+## 💻 stuff i use
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,10 +38,6 @@
 
 ---
 
-## 🚀 projects
+## 🧪 projects
 
-| project | what |
-|---|---|
-| **NCUT** | custom laptop from scratch — PCB, chassis, BGA, the works ⚠️ |
-| **Lua UI** | messing with UI systems and libraries 🧪 |
-| **CRE Fălești** | local org website, css/js debugging as a sport 🌐 |
+a few repos are in here somewhere. some even work.
